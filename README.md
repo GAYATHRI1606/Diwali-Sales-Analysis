@@ -173,6 +173,18 @@ This project focuses on answering five key business questions:
 
 
 
+📁 **Files Included**
+
+
+* **Diwali Sales Raw Data.csv** – original uncleaned dataset
+* **Cleaned Diwali Sales Data.xlsx** – cleaned & processed dataset
+* **Diwali Sales Project.ipynb** – Python EDA, visualizations & insights
+* **Diwali Sales Dashboard.pbix** – Power BI dashboard with 5 analysis charts
+* **Dashboard-Diwali.png** – exported image of the final dashboard
+* **README.md** – complete project documentation
+
+
+
 🧠 **What I Learned**
 
 
@@ -196,4 +208,11 @@ Feel free to reach out for collaboration or queries:
 📧 Email: gayathri.g1606@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/gayathri-ganesan-32b153240/
+
+
+
+
+
+
+
 
